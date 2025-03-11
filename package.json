@@ -1,16 +1,11 @@
 {
-  "name": "page1",
-  "version": "1.0.0",
-  "description": "使用 Cheerio 的 ES 模块示例",
-  "main": "index.html",
-  "type": "module",
-  "scripts": {
-    "start": "live-server",
-    "build": "echo 'No build step configured'"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0"
-  },
-  "author": "",
-  "license": "ISC"
-}
+    "name": "page1",
+    "version": "1.0.0",
+    "description": "Cloudflare Pages project with Functions",
+    "scripts": {
+      "build": "echo 'No additional build step required'"
+    },
+    "dependencies": {
+      "cheerio": "^1.0.0-rc.12"
+    }
+  }
