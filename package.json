@@ -2,10 +2,11 @@
     "name": "page1",
     "version": "1.0.0",
     "description": "Cloudflare Pages project with Functions",
+    
     "scripts": {
       "build": "echo 'No additional build step required'"
     },
     "dependencies": {
-      "cheerio": "^1.0.0-rc.12"
+      "cheerio": "^1.0.0"
     }
   }
