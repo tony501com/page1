@@ -1,0 +1,15 @@
+{
+    "name": "cheerio-esm-demo",
+    "version": "1.0.0",
+    "description": "使用 Cheerio 的 ES 模块示例",
+    "main": "api.js",
+    "type": "module",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "cheerio": "^1.0.0-rc.12"
+    },
+    "author": "",
+    "license": "ISC"
+  }
